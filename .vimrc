@@ -9,6 +9,7 @@ endif
 call neobundle#rc(expand('~/.vim/bundle/'))
 
 NeoBundle 'git://github.com/Shougo/neobundle.vim.git'
+NeoBundle 'git://github.com/tpope/vim-fugitive.git'
 
 filetype plugin indent on
 NeoBundleCheck
