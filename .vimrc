@@ -18,3 +18,4 @@ set number
 set backupdir=$HOME/vim_backup
 set directory=$HOME/vim_backup
 set shiftwidth=4
+set diffopt=filler
